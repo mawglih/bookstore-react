@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { NavData } from '../constants/nav-data';
-import { Link } from 'react-router-dom';
 
 class Navigation extends Component {
     renderListItem(){
